@@ -33,10 +33,11 @@ public class If_anidado {
            if(PassIng.equals(PassDB)){
                System.out.println("Bienvenido");
             }
-      }
-          else{
-          System.out.println("contraseña incorrecta")
+             else{
+          System.out.println("contraseña incorrecta");
              }
+      }
+        
            else{
            System.out.println("usuario incorrecto");
        }
